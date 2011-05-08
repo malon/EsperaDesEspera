@@ -505,7 +505,7 @@ class MyButton {
 
 class Timer {
   int miTiempo;
-  int miLimite=120;
+  int miLimite=180;
   Carta carta1, carta2;
   float mazo1X, mazo2X;
   boolean estado;
